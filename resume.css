@@ -1,0 +1,113 @@
+.webstr{
+    color: rgb(131, 109, 151);
+        font-family:forte;
+        font-size:30px;
+        font-weight: bold;
+        padding-left: 50px;
+        margin-top: 15px;
+}
+.abcd{
+    background-color:rgb(118, 93, 131);
+}
+.toplinks{
+    margin: 10px 20px;
+    color: #fff;
+}
+.sec1{
+    background-color: rgb(154, 130, 167);
+    height:670px;
+}
+.mypicdiv{
+    text-align: center;
+    margin:40px 0pc;
+}
+.mypic{
+    border: 5px solid white ;
+    border-radius: 10px;
+}
+.myname{
+    font-family:felix titling;
+    font-weight: bold;
+}
+.mydetails{
+    text-align: center;
+}
+.aboutme{
+    background-color: rgb(93, 72, 103);
+    color:aliceblue;
+    padding: 12px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.aboutme:hover{
+    background-color: aliceblue;
+    color:rgb(93, 72, 103);
+    text-decoration: none;
+}
+.inbox1{
+   margin: 25px 0px;
+}
+.icon1{
+    padding: 10px 15px;
+    font-size: 20px;
+    border-radius:50%;
+    margin: 10px 0px;
+    display: inline-block;
+}
+.icon1:hover{
+    background-color:rgb(93, 72, 103);
+    color: #fff;
+}
+.inbox3{
+    margin-top: 40px;
+}
+.btn{
+    margin: 25px 0px;
+}
+.sec2,.sec3,.sec4{
+    padding: 40px 0px;
+    margin: 10px 0px;
+}
+.mystyles{
+    font-family:felix titling;
+    font-weight: bold;
+    color: rgb(118, 93, 131);
+
+}
+
+.line1{
+    background-color: black;
+    height: 2px;
+    width: 30%;
+}
+.line2{
+    background-color: black;
+    height: 2px;
+    width: 30%;
+}
+
+.para1{
+    padding-right: 60px;
+    margin: 30px 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.head1{
+    padding-top: 20px;
+}
+.head2{
+    margin-top: 20px;
+}
+.mybio{
+    margin: 20px 20px;
+}
+.subjects{
+    margin: 20px 20px;
+
+}
+.inbox2{
+    margin: 30px 0px;
+}
+.icon2{
+    margin-top: 23px;
+    display: inline-block;
+}
